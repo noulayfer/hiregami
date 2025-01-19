@@ -1,0 +1,12 @@
+[submodule "candidate-service"]
+	path = candidate-service
+	url = https://github.com/noulayfer/hiregami-candidate-service.git
+[submodule "data-extraction-library"]
+	path = data-extraction-library
+	url = https://github.com/noulayfer/hiregami-data-extraction-library.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/noulayfer/hiregami-api-gateway.git
+[submodule "eureka-server"]
+	path = eureka-server
+	url = https://github.com/noulayfer/hiregami-eureka-service.git
